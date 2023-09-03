@@ -55,7 +55,7 @@ export default function Home() {
 
           <ul className='flex justify-center dark:text-gray-200 gap-4 pt-4'>
                 <li className='cursor-pointer hover:underline'><a href='https://abdelhadielouragli.medium.com/' target="_blank">Blog</a></li>
-                <li className='cursor-pointer hover:underline'><a href='https://drive.google.com/file/d/1x1ZvFSkvvXo5rsv8DcYo4JtNiO4lh-GH/view' target="_blank">Resume</a></li>
+                <li className='cursor-pointer hover:underline'><a href='https://drive.google.com/file/d/1135CSRKFextu-9AwpVLG3jLYa22uIJz2/view?usp=sharing' target="_blank">Resume</a></li>
                 <li className='cursor-pointer hover:underline'><a href='mailto:abdelhadielouaraguli@gmail.com' target="_blank">Say Hey!</a></li>
               </ul>  
         </section>
